@@ -1,0 +1,17 @@
+body {
+  background-image: url(/20180625_183135.jpg);
+  background-size: cover;
+}
+h1 {
+  color: #ffffff;
+}
+p {
+  color: white;
+}
+/*menu*/
+a {
+  color: rgba(148, 227, 226, 0.3);
+}
+a:hover {
+  color: rgba(255, 255, 255, 0.6);
+}
